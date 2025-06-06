@@ -7,7 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 init_db()
 
-app = FastAPI(docs_url="/", title="API Almacén")
+app = FastAPI(docs_url="/docs", redoc_url="/redoc", title="API Almacén")
 
 app.add_middleware(
     CORSMiddleware,
