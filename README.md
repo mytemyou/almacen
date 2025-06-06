@@ -88,6 +88,12 @@ almacen/
 
 ## ✍️ Autor
 
-- Miguel Hernández Barrionuevo  
-  Estudiante de Máster Big Data & Data Engineering  
+- Miguel Hernández Barrionuevo
+  Estudiante de Máster Big Data & Data Engineering
   [LinkedIn](https://linkedin.com) *(opcional)*
+
+---
+
+## 📝 Licencia
+
+Este proyecto está bajo la [Licencia MIT](LICENSE).
